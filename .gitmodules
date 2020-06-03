@@ -1,0 +1,6 @@
+[submodule "open-gl"]
+	path = open-gl
+	url = https://github.com/jyallop/open-gl.git
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/jyallop/compiler.git
